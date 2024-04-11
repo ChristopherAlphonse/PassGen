@@ -25,6 +25,13 @@ The `PassGen` class utility designed to facilitate the generation of secure pass
 
 -   `LEVEL`: An object containing predefined complexity levels for passwords and identifiers.
 
+## Running the code
+
+```bash
+# Install node modules using your preferred package manager
+# In this case, using pnpm:
+pnpm i && pnpm dev
+
 ## Usage Example
 
 ```javascript
