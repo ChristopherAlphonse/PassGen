@@ -31,7 +31,15 @@ The `PassGen` class utility designed to facilitate the generation of secure pass
 # Install node modules using your preferred package manager
 # In this case, using pnpm:
 pnpm i && pnpm dev
+```
 
+```bash
+yarn install && yarn run dev
+```
+
+```bash
+npm install && npm run dev
+```
 ## Usage Example
 
 ```javascript
