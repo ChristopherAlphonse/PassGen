@@ -1,0 +1,15 @@
+{
+    "name": "passGen",
+    "version": "1.0.0",
+    "description": "Goal is to use this for personal projects, instead of utilizing packages",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
